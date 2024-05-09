@@ -338,16 +338,3 @@ ul footer {
     justify-content: space-evenly;
 }
 /*end of footer*/
-
-
-
-/*@media screen and (max-width: 900px) {
-    .container{
-        flex-direction: column;
-        background-color: red !important;
-    }
-
-    ul {
-        background-color: blue !important;
-    }
-*/
